@@ -4,6 +4,7 @@ import { addPanel } from './addPanel';
 import { assertSuccessNotification } from './assertSuccessNotification';
 import { deleteDashboard } from './deleteDashboard';
 import { deleteDataSource } from './deleteDataSource';
+import { editPanel } from './editPanel';
 import { login } from './login';
 import { openDashboard } from './openDashboard';
 import { saveDashboard } from './saveDashboard';
@@ -18,6 +19,7 @@ export const Flows = {
   assertSuccessNotification,
   deleteDashboard,
   deleteDataSource,
+  editPanel,
   login,
   openDashboard,
   saveDashboard,
