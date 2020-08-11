@@ -35,9 +35,7 @@ export const addDashboard = (config?: Partial<AddDashboardConfig>): any => {
 
   e2e.components.BackButton.backArrow().click();
 
-  if (timeRange) {
-    setDashboardTimeRange(timeRange);
-  }
+  setDashboardTimeRange(timeRange);
 
   e2e.pages.Dashboard.Toolbar.toolbarItems('Save dashboard').click();
 
