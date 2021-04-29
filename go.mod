@@ -59,7 +59,7 @@ require (
 	github.com/influxdata/influxdb-client-go/v2 v2.2.3
 	github.com/jmespath/go-jmespath v0.4.0
 	github.com/jonboulle/clockwork v0.2.2 // indirect
-	github.com/json-iterator/go v1.1.10
+	github.com/json-iterator/go v1.1.11
 	github.com/jung-kurt/gofpdf v1.16.2
 	github.com/lib/pq v1.10.0
 	github.com/linkedin/goavro/v2 v2.10.0
