@@ -245,7 +245,7 @@ require (
 	go.uber.org/atomic v1.9.0 // indirect
 	go.uber.org/goleak v1.1.10 // indirect
 	golang.org/x/lint v0.0.0-20210508222113-6edffad5e616 // indirect
-	golang.org/x/sys v0.0.0-20211124211545-fe61309f8881 // indirect
+	golang.org/x/sys v0.0.0-20220111092808-5a964db01320 // indirect
 	golang.org/x/text v0.3.7 // indirect
 	golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
@@ -260,10 +260,30 @@ require (
 )
 
 require (
+	github.com/RoaringBitmap/roaring v0.9.4 // indirect
+	github.com/bits-and-blooms/bitset v1.2.1 // indirect
+	github.com/blevesearch/bleve v1.0.14 // indirect
+	github.com/blevesearch/go-porterstemmer v1.0.3 // indirect
+	github.com/blevesearch/mmap-go v1.0.3 // indirect
+	github.com/blevesearch/segment v0.9.0 // indirect
+	github.com/blevesearch/snowballstem v0.9.0 // indirect
+	github.com/blevesearch/zap/v11 v11.0.14 // indirect
+	github.com/blevesearch/zap/v12 v12.0.14 // indirect
+	github.com/blevesearch/zap/v13 v13.0.6 // indirect
+	github.com/blevesearch/zap/v14 v14.0.5 // indirect
+	github.com/blevesearch/zap/v15 v15.0.3 // indirect
 	github.com/containerd/containerd v1.5.8 // indirect
+	github.com/couchbase/vellum v1.0.2 // indirect
+	github.com/glycerine/go-unsnap-stream v0.0.0-20210130063903-47dfef350d96 // indirect
 	github.com/imdario/mergo v0.3.12 // indirect
+	github.com/mschoch/smat v0.2.0 // indirect
 	github.com/opencontainers/image-spec v1.0.2 // indirect
+	github.com/philhofer/fwd v1.1.1 // indirect
 	github.com/segmentio/asm v1.1.1 // indirect
+	github.com/steveyen/gtreap v0.1.0 // indirect
+	github.com/tinylib/msgp v1.1.6 // indirect
+	github.com/willf/bitset v1.1.11 // indirect
+	go.etcd.io/bbolt v1.3.6 // indirect
 )
 
 // Use fork of crewjam/saml with fixes for some issues until changes get merged into upstream

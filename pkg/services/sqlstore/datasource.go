@@ -54,6 +54,20 @@ func (ss *SQLStore) GetDataSources(ctx context.Context, query *models.GetDataSou
 	})
 }
 
+func (ss *SQLStore) GetAllDataSources(ctx context.Context) ([]*models.DataSource, error) {
+	results := make([]*models.DataSource, 0)
+
+	err := ss.WithDbSession(ctx, func(sess *DBSession) error {
+		return sess.Find(&results)
+	})
+
+	if err != nil {
+		return nil, err
+	}
+
+	return results, nil
+}
+
 // GetDataSourcesByType returns all datasources for a given type or an error if the specified type is an empty string
 func (ss *SQLStore) GetDataSourcesByType(ctx context.Context, query *models.GetDataSourcesByTypeQuery) error {
 	if query.Type == "" {

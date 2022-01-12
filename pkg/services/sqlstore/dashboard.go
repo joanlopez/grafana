@@ -521,6 +521,15 @@ func GetDashboards(ctx context.Context, query *models.GetDashboardsQuery) error 
 	return err
 }
 
+func GetAllDashboards(ctx context.Context) ([]*models.Dashboard, error) {
+	var dashboards = make([]*models.Dashboard, 0)
+	if err := x.Find(&dashboards); err != nil {
+		return nil, err
+	}
+
+	return dashboards, nil
+}
+
 // GetDashboardPermissionsForUser returns the maximum permission the specified user has for a dashboard(s)
 // The function takes in a list of dashboard ids and the user id and role
 func GetDashboardPermissionsForUser(ctx context.Context, query *models.GetDashboardPermissionsForUserQuery) error {
