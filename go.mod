@@ -23,7 +23,7 @@ require (
 	github.com/BurntSushi/toml v0.3.1
 	github.com/Masterminds/semver v1.5.0
 	github.com/VividCortex/mysqlerr v0.0.0-20170204212430-6c6b55f8796f
-	github.com/aws/aws-sdk-go v1.40.37
+	github.com/aws/aws-sdk-go v1.43.4
 	github.com/beevik/etree v1.1.0
 	github.com/benbjohnson/clock v1.1.0
 	github.com/bradfitz/gomemcache v0.0.0-20190913173617-a41fca850d0b
@@ -53,7 +53,7 @@ require (
 	github.com/gorilla/websocket v1.4.2
 	github.com/gosimple/slug v1.9.0
 	github.com/grafana/cuetsy v0.0.0-20211119211437-8c25464cc9bf
-	github.com/grafana/grafana-aws-sdk v0.10.0
+	github.com/grafana/grafana-aws-sdk v0.10.1
 	github.com/grafana/grafana-plugin-sdk-go v0.126.0
 	github.com/grafana/loki v1.6.2-0.20211015002020-7832783b1caa
 	github.com/grpc-ecosystem/go-grpc-middleware v1.3.0
@@ -105,7 +105,7 @@ require (
 	go.opentelemetry.io/otel/trace v1.2.0
 	golang.org/x/crypto v0.0.0-20210616213533-5ff15b29337e
 	golang.org/x/exp v0.0.0-20210220032938-85be41e4509f // indirect
-	golang.org/x/net v0.0.0-20211013171255-e13a2654a71e
+	golang.org/x/net v0.0.0-20211216030914-fe4d6282115f
 	golang.org/x/oauth2 v0.0.0-20210819190943-2bc19b11175f
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
 	golang.org/x/time v0.0.0-20210723032227-1f47c861a9ac
@@ -168,9 +168,9 @@ require (
 	github.com/go-openapi/errors v0.20.0 // indirect
 	github.com/go-openapi/jsonpointer v0.19.5 // indirect
 	github.com/go-openapi/jsonreference v0.19.6 // indirect
-	github.com/go-openapi/loads v0.20.2 // indirect
+	github.com/go-openapi/loads v0.20.2
 	github.com/go-openapi/runtime v0.19.29 // indirect
-	github.com/go-openapi/spec v0.20.4 // indirect
+	github.com/go-openapi/spec v0.20.4
 	github.com/go-openapi/swag v0.19.15 // indirect
 	github.com/go-openapi/validate v0.20.2 // indirect
 	github.com/gogo/googleapis v1.4.1 // indirect
