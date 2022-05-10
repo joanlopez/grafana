@@ -16,7 +16,7 @@ replace github.com/russellhaering/goxmldsig@v1.1.0 => github.com/russellhaering/
 require (
 	cloud.google.com/go/storage v1.21.0
 	cuelang.org/go v0.4.3
-	github.com/Azure/azure-sdk-for-go v59.3.0+incompatible
+	github.com/Azure/azure-sdk-for-go v64.0.0+incompatible
 	github.com/Azure/go-autorest/autorest v0.11.22
 	github.com/BurntSushi/toml v0.3.1
 	github.com/Masterminds/semver v1.5.0
