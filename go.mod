@@ -27,7 +27,7 @@ replace cuelang.org/go => github.com/sdboyer/cue v0.5.0-beta.2.0.20221218111347-
 require (
 	cloud.google.com/go/storage v1.28.1
 	cuelang.org/go v0.5.0-beta.2
-	github.com/Azure/azure-sdk-for-go v65.0.0+incompatible
+	github.com/Azure/azure-sdk-for-go v67.3.0+incompatible
 	github.com/Azure/go-autorest/autorest v0.11.28
 	github.com/BurntSushi/toml v1.1.0
 	github.com/Masterminds/semver v1.5.0
@@ -274,7 +274,7 @@ require (
 
 require (
 	github.com/dave/dst v0.27.2
-	github.com/parca-dev/parca v0.12.1
+	github.com/parca-dev/parca v0.15.0
 	k8s.io/apimachinery v0.25.3
 )
 
