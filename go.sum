@@ -1767,8 +1767,8 @@ github.com/grafana/alerting v0.0.0-20230831092459-f7dba8ede9b0 h1:iDCcF7YzzVWQDt
 github.com/grafana/alerting v0.0.0-20230831092459-f7dba8ede9b0/go.mod h1:gyUqgDT+v6gARVCpbfi8bb/WiGNELNJiq6hGKadnIxc=
 github.com/grafana/codejen v0.0.3 h1:tAWxoTUuhgmEqxJPOLtJoxlPBbMULFwKFOcRsPRPXDw=
 github.com/grafana/codejen v0.0.3/go.mod h1:zmwwM/DRyQB7pfuBjTWII3CWtxcXh8LTwAYGfDfpR6s=
-github.com/grafana/cuetsy v0.1.10 h1:+W9/7roI8LorL+D1RJhKGdhsTZ81adrK9dHS0r7qsXs=
-github.com/grafana/cuetsy v0.1.10/go.mod h1:Ix97+CPD8ws9oSSxR3/Lf4ahU1I4Np83kjJmDVnLZvc=
+github.com/grafana/cuetsy v0.1.11 h1:I3IwBhF+UaQxRM79HnImtrAn8REGdb5M3+C4QrYHoWk=
+github.com/grafana/cuetsy v0.1.11/go.mod h1:Ix97+CPD8ws9oSSxR3/Lf4ahU1I4Np83kjJmDVnLZvc=
 github.com/grafana/dataplane/examples v0.0.1 h1:K9M5glueWyLoL4//H+EtTQq16lXuHLmOhb6DjSCahzA=
 github.com/grafana/dataplane/examples v0.0.1/go.mod h1:h5YwY8s407/17XF5/dS8XrUtsTVV2RnuW8+m1Mp46mg=
 github.com/grafana/dataplane/sdata v0.0.6 h1:Ejlj8d1Hvy/uDLeI4sOvL34Y8WLlVDd9iN270F+8aTw=
