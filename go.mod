@@ -46,7 +46,7 @@ require (
 	github.com/fatih/color v1.15.0 // @grafana/backend-platform
 	github.com/gchaincl/sqlhooks v1.3.0 // @grafana/backend-platform
 	github.com/go-git/go-git/v5 v5.4.2 // @grafana/grafana-app-platform-squad
-	github.com/go-ldap/ldap/v3 v3.4.4 // @grafana/grafana-authnz-team
+	github.com/go-ldap/ldap/v3 v3.4.6 // @grafana/grafana-authnz-team
 	github.com/go-openapi/strfmt v0.21.7 // @grafana/alerting-squad-backend
 	github.com/go-redis/redis/v8 v8.11.5 // @grafana/backend-platform
 	github.com/go-sourcemap/sourcemap v2.1.3+incompatible // @grafana/backend-platform
@@ -294,7 +294,7 @@ require (
 	cloud.google.com/go v0.110.6 // indirect
 	cloud.google.com/go/compute/metadata v0.2.3 // indirect
 	github.com/Azure/azure-pipeline-go v0.2.3 // indirect
-	github.com/Azure/go-ntlmssp v0.0.0-20220621081337-cb9428e4ac1e // indirect
+	github.com/Azure/go-ntlmssp v0.0.0-20221128193559-754e69321358 // indirect
 	github.com/Masterminds/goutils v1.1.1 // indirect
 	github.com/NYTimes/gziphandler v1.1.1 // indirect
 	github.com/agext/levenshtein v1.2.1 // indirect
@@ -330,7 +330,7 @@ require (
 	github.com/felixge/httpsnoop v1.0.3 // indirect
 	github.com/fsnotify/fsnotify v1.6.0 // indirect
 	github.com/getsentry/sentry-go v0.12.0 // indirect
-	github.com/go-asn1-ber/asn1-ber v1.5.4 // indirect
+	github.com/go-asn1-ber/asn1-ber v1.5.5 // indirect
 	github.com/goccy/go-json v0.10.0 // indirect
 	github.com/gogo/googleapis v1.4.1 // indirect
 	github.com/gogo/status v1.1.1 // indirect
