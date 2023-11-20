@@ -115,7 +115,7 @@ require (
 	golang.org/x/time v0.3.0 // @grafana/backend-platform
 	golang.org/x/tools v0.12.0 // @grafana/grafana-as-code
 	gonum.org/v1/gonum v0.12.0 // @grafana/observability-metrics
-	google.golang.org/api v0.126.0 // @grafana/backend-platform
+	google.golang.org/api v0.128.0 // @grafana/backend-platform
 	google.golang.org/grpc v1.58.2 // @grafana/plugins-platform-backend
 	google.golang.org/protobuf v1.31.0 // @grafana/plugins-platform-backend
 	gopkg.in/alexcesaro/quotedprintable.v3 v3.0.0-20150716171945-2caba252f4dc // indirect
@@ -169,7 +169,7 @@ require (
 	github.com/golang/protobuf v1.5.3 // @grafana/backend-platform
 	github.com/google/btree v1.1.2 // indirect
 	github.com/google/flatbuffers v23.1.21+incompatible // indirect
-	github.com/googleapis/gax-go/v2 v2.11.0 // @grafana/backend-platform
+	github.com/googleapis/gax-go/v2 v2.12.0 // @grafana/backend-platform
 	github.com/gorilla/mux v1.8.0 // @grafana/backend-platform
 	github.com/grafana/grafana-google-sdk-go v0.1.0 // @grafana/partner-datasources
 	github.com/grpc-ecosystem/go-grpc-prometheus v1.2.1-0.20191002090509-6af20e3a5340 // indirect
@@ -340,7 +340,7 @@ require (
 	github.com/google/go-querystring v1.1.0 // indirect
 	github.com/google/gofuzz v1.2.0 // indirect
 	github.com/google/s2a-go v0.1.4 // indirect
-	github.com/googleapis/enterprise-certificate-proxy v0.2.3 // indirect
+	github.com/googleapis/enterprise-certificate-proxy v0.2.4 // indirect
 	github.com/grafana/regexp v0.0.0-20221123153739-15dc172cd2db // indirect
 	github.com/grafana/sqlds/v2 v2.3.10 // indirect
 	github.com/hashicorp/go-cleanhttp v0.5.2 // indirect
