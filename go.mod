@@ -28,7 +28,7 @@ require (
 	github.com/Azure/go-autorest/autorest/adal v0.9.23 // @grafana/grafana-backend-group
 	github.com/BurntSushi/toml v1.3.2 // @grafana/identity-access-team
 	github.com/Masterminds/semver v1.5.0 // @grafana/grafana-backend-group
-	github.com/Masterminds/semver/v3 v3.2.0 // @grafana/grafana-release-guild
+	github.com/Masterminds/semver/v3 v3.2.1 // @grafana/grafana-release-guild
 	github.com/Masterminds/sprig/v3 v3.2.3 // @grafana/grafana-backend-group
 	github.com/Masterminds/squirrel v1.5.4 // @grafana/identity-access-team
 	github.com/ProtonMail/go-crypto v0.0.0-20230828082145-3c4c8a2d2371 // @grafana/plugins-platform-backend
