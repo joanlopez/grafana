@@ -72,7 +72,7 @@ require (
 	github.com/golang/mock v1.6.0 // @grafana/alerting-backend
 	github.com/golang/protobuf v1.5.4 // @grafana/grafana-backend-group
 	github.com/golang/snappy v0.0.4 // @grafana/alerting-backend
-	github.com/google/go-cmp v0.6.0 // @grafana/grafana-backend-group
+	github.com/google/go-cmp v0.7.0 // @grafana/grafana-backend-group
 	github.com/google/uuid v1.6.0 // @grafana/grafana-backend-group
 	github.com/google/wire v0.5.0 // @grafana/grafana-backend-group
 	github.com/googleapis/gax-go/v2 v2.12.3 // @grafana/grafana-backend-group
