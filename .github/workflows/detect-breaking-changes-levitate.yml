@@ -143,7 +143,7 @@ jobs:
           service_account: ${{ secrets.LEVITATE_SA }}
 
       - name: 'Set up Cloud SDK'
-        uses: 'google-github-actions/setup-gcloud@v2'
+        uses: 'google-github-actions/setup-gcloud@v3'
         with:
           version: '>= 363.0.0'
           project_id: 'grafanalabs-global'
