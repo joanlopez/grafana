@@ -40,7 +40,7 @@ jobs:
     if: github.repository == 'grafana/grafana'
     steps:
       - name: Checkout Grafana
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
       - name: Configure git user
         run: |
           git config --local user.name "github-actions[bot]"
